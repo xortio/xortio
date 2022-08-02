@@ -5,7 +5,5 @@
 
 
 
-![hack](https://user-images.githubusercontent.com/88374603/182128124-51fd0c9b-7c32-4170-84fa-3bec6aa8d5b3.gif)
 
-
-
+![C__Windows_py exe 2022-08-01 15-29-41](https://user-images.githubusercontent.com/88374603/182425510-9ad4edb8-ce51-42c1-a417-2345f43b6ef0.gif)
